@@ -2,3 +2,4 @@ this is for testing
 
 This is for software engineering exercise
 
+Hai, this is Syakir. Finishing task2 for milestone1.
